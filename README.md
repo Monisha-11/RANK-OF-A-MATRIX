@@ -15,6 +15,9 @@ Assign in np.array()in rank of matrix
 print the value and end the program 
 ## Program:
 ```
+#program to find the rank of matrix
+#Devoloped by:Monisha T
+#Registernumber:21500314
 import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 value = np.linalg.matrix_rank(A)
@@ -23,7 +26,8 @@ print(value)
 ```
 
 ## Output:
-![OUTPUT](./output.png)
+![OUTPUT](./output.png)![output](https://user-images.githubusercontent.com/93427240/144363312-dedd0e6e-b9c1-4529-b808-4a60972b7576.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
